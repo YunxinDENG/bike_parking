@@ -5,8 +5,8 @@ This repository contains all the code used for data processing in Yunxin Deng's 
 ## Contents
 
 - **Code**: This directory includes all the scripts and programs used for data manipulation and analysis.
-  - `data_preprocess.R` / `data_preprocess.ipynb`: Main script for data processing (replace with the actual file names and programming languages used).
-  - `Other Script`: Any additional scripts that were used (replace with actual names and descriptions).
+  - `data_preprocess.R` / `data_preprocess.ipynb`: Main script for data processing.
+  - `Other Script`: Any additional scripts that were used.
 
 - **Data**: This directory contains the raw data files used in the dissertation.
   - `allPOI2023.csv` : POI data applied from DIGIMAP Data Service.

@@ -5,7 +5,7 @@ This repository contains all the code used for data processing in Yunxin Deng's 
 ## Contents
 
 - **Code**: This directory includes all the scripts and programs used for data manipulation and analysis.
-  - `data_preprocess.R` / `data_preprocess.ipynb`: Main script for data processing.
+  - `data_preprocess.ipynb`: Main script for data processing.
   - `Other Script`: Any additional scripts that were used.
 
 - **Data**: This directory contains the raw data files used in the dissertation.

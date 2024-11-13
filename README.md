@@ -14,12 +14,11 @@ This repository contains all the code used for data processing in Yunxin Deng's 
 - **Results**: This directory contains the output files generated from the data processing scripts.
   - `thiesson_all.csv` : Processed data files (replace with the actual file names).
 
-- **Documentation**:
-  - `Data Source.md`: A document summarizing the sources of all data used in the dissertation.
+- `data_source.md`: A document summarizing the sources of all data used in the dissertation.
 
 ## Usage
 
-Before running the scripts, ensure you have the necessary software and packages installed. The code is written in [insert programming language] and should be compatible with [insert version or range of versions].
+Before running the scripts, ensure you have the necessary software and packages installed. The code is written in Python and should be compatible with Python 3.10.5, packaged by conda-forge.
 
 1. Clone the repository:
    

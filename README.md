@@ -1,4 +1,4 @@
-# Yunxin Deng's Dissertation Data Processing
+# Santander Bike Trips Analysis
 
 This repository contains all the code used for data processing in Yunxin Deng's dissertation. The repository is organized to provide transparency and reproducibility of the data analysis.
 

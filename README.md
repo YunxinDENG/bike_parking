@@ -23,11 +23,11 @@ Before running the scripts, ensure you have the necessary software and packages 
 
 1. Clone the repository:
    
-   git clone https://github.com/[your-username]/yunxin-deng-dissertation.git
+   `git clone https://github.com/[your-username]/yunxin-deng-dissertation.git`
    
 3. Navigate into the repository:
 
-   cd yunxin-deng-dissertation
+   `cd yunxin-deng-dissertation`
 
 
 ## Analysis Steps in External Software
